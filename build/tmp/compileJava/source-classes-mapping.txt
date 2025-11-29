@@ -1,0 +1,240 @@
+suite/controller/Selection.java
+ suite.controller.Selection
+ suite.controller.Selection$1
+ suite.controller.Selection$2
+ suite.controller.Selection$3
+store/codec/util/whirlpool/Whirlpool.java
+ store.codec.util.whirlpool.Whirlpool
+store/loader/ObjectLoader.java
+ store.loader.ObjectLoader
+store/Indices.java
+ store.Indices
+store/ArchiveReference.java
+ store.ArchiveReference
+suite/controller/WidgetEditor.java
+ suite.controller.WidgetEditor
+suite/controller/ObjectEditor.java
+ suite.controller.ObjectEditor
+ suite.controller.ObjectEditor$1
+store/codec/widget/IComponent.java
+ store.codec.widget.IComponent
+store/codec/FloDefinition.java
+ store.codec.FloDefinition
+store/loader/ItemLoader.java
+ store.loader.ItemLoader
+utility/JsonLoader.java
+ utility.JsonLoader
+store/codec/osrs/IdkConverter.java
+ store.codec.osrs.IdkConverter
+store/codec/FrameDefinition.java
+ store.codec.FrameDefinition
+suite/Constants.java
+ suite.Constants
+store/codec/util/gzip/GZipCompressor.java
+ store.codec.util.gzip.GZipCompressor
+store/codec/ObjectDefinition.java
+ store.codec.ObjectDefinition
+suite/controller/ModelPacker.java
+ suite.controller.ModelPacker
+ suite.controller.ModelPacker$1
+ suite.controller.ModelPacker$2
+ suite.controller.ModelPacker$2$1
+store/codec/osrs/NPCDefinition.java
+ store.codec.osrs.NPCDefinition
+store/loader/LoaderManager.java
+ store.loader.LoaderManager
+store/codec/model/BillboardConfig.java
+ store.codec.model.BillboardConfig
+utility/ConfigBuilder.java
+ utility.ConfigBuilder
+suite/dialogue/InformationDialogue.java
+ suite.dialogue.InformationDialogue
+store/codec/model/MagnetConfig.java
+ store.codec.model.MagnetConfig
+utility/Vector3f.java
+ utility.Vector3f
+suite/dialogue/Dialogues.java
+ suite.dialogue.Dialogues
+persistable/Persistable.java
+ persistable.Persistable
+ persistable.Persistable$SaveLoader
+misc/Tile.java
+ misc.Tile
+store/loader/TextureDiffuseLoader.java
+ store.loader.TextureDiffuseLoader
+store/codec/BaseDefinition.java
+ store.codec.BaseDefinition
+suite/controller/ModelDumper.java
+ suite.controller.ModelDumper
+store/codec/widget/InterfaceName.java
+ store.codec.widget.InterfaceName
+store/codec/util/Utils.java
+ store.codec.util.Utils
+store/codec/model/Mesh.java
+ store.codec.model.Mesh
+suite/controller/RenderAnimations.java
+ suite.controller.RenderAnimations
+ suite.controller.RenderAnimations$1
+store/codec/SpotDefinition.java
+ store.codec.SpotDefinition
+store/codec/model/EmissiveTriangle.java
+ store.codec.model.EmissiveTriangle
+store/Cache.java
+ store.Cache
+suite/controller/ParticleEditor.java
+ suite.controller.ParticleEditor
+ suite.controller.ParticleEditor$1
+store/codec/AbstractDefinition.java
+ store.codec.AbstractDefinition
+store/codec/image/AbstractMaterial.java
+ store.codec.image.AbstractMaterial
+store/codec/util/BitUtils.java
+ store.codec.util.BitUtils
+store/codec/osrs/SequenceDefinition.java
+ store.codec.osrs.SequenceDefinition
+store/codec/util/gzip/GZipDecompressor.java
+ store.codec.util.gzip.GZipDecompressor
+store/codec/FluDefinition.java
+ store.codec.FluDefinition
+suite/controller/SpotAnimations.java
+ suite.controller.SpotAnimations
+ suite.controller.SpotAnimations$1
+utility/XTEASManager.java
+ utility.XTEASManager
+ utility.XTEASManager$1
+store/codec/MagnetDefinition.java
+ store.codec.MagnetDefinition
+store/ReferenceTable.java
+ store.ReferenceTable
+utility/ByteBufferUtils.java
+ utility.ByteBufferUtils
+suite/controller/NPCEditor.java
+ suite.controller.NPCEditor
+ suite.controller.NPCEditor$1
+store/loader/DefinitionLoader.java
+ store.loader.DefinitionLoader
+suite/Main.java
+ suite.Main
+store/codec/image/LoaderImageArchive.java
+ store.codec.image.LoaderImageArchive
+store/codec/util/Constants.java
+ store.codec.util.Constants
+suite/controller/Textures.java
+ suite.controller.Textures
+ suite.controller.Textures$1
+store/loader/SpotLoader.java
+ store.loader.SpotLoader
+store/codec/osrs/FrameDefinition.java
+ store.codec.osrs.FrameDefinition
+store/io/OutputStream.java
+ store.io.OutputStream
+misc/MapDecoder.java
+ misc.MapDecoder
+store/codec/ItemDefinition.java
+ store.codec.ItemDefinition
+misc/EditorType.java
+ misc.EditorType
+store/codec/HitmarkDefinition.java
+ store.codec.HitmarkDefinition
+store/loader/SequenceLoader.java
+ store.loader.SequenceLoader
+store/ConfigArchive.java
+ store.ConfigArchive
+store/codec/SequenceDefinition.java
+ store.codec.SequenceDefinition
+store/codec/osrs/BaseDefinition.java
+ store.codec.osrs.BaseDefinition
+store/FileStore.java
+ store.FileStore
+store/loader/NPCLoader.java
+ store.loader.NPCLoader
+store/codec/ParticleDefinition.java
+ store.codec.ParticleDefinition
+store/codec/widget/Interface.java
+ store.codec.widget.Interface
+store/io/Stream.java
+ store.io.Stream
+store/codec/image/SpriteContainer.java
+ store.codec.image.SpriteContainer
+misc/SequenceDefinitions.java
+ misc.SequenceDefinitions
+store/codec/MaterialDefinition.java
+ store.codec.MaterialDefinition
+store/loader/SpriteLoader.java
+ store.loader.SpriteLoader
+store/codec/image/SpriteFrame.java
+ store.codec.image.SpriteFrame
+store/codec/image/MaterialLoader.java
+ store.codec.image.MaterialLoader
+suite/controller/ItemEditor.java
+ suite.controller.ItemEditor
+ suite.controller.ItemEditor$1
+suite/controller/HitmarkEditor.java
+ suite.controller.HitmarkEditor
+ suite.controller.HitmarkEditor$1
+store/loader/ParticleLoader.java
+ store.loader.ParticleLoader
+store/io/InputStream.java
+ store.io.InputStream
+store/codec/widget/IComponentSettings.java
+ store.codec.widget.IComponentSettings
+store/codec/IdentityKit.java
+ store.codec.IdentityKit
+suite/controller/SpriteEditor.java
+ suite.controller.SpriteEditor
+ suite.controller.SpriteEditor$1
+ suite.controller.SpriteEditor$2
+ suite.controller.SpriteEditor$3
+ suite.controller.SpriteEditor$4
+store/loader/BASLoader.java
+ store.loader.BASLoader
+utility/FileUtilities.java
+ utility.FileUtilities
+utility/StringUtilities.java
+ utility.StringUtilities
+store/codec/BASDefinition.java
+ store.codec.BASDefinition
+misc/CustomTab.java
+ misc.CustomTab
+store/codec/osrs/ItemDefinition.java
+ store.codec.osrs.ItemDefinition
+store/loader/HitmarkLoader.java
+ store.loader.HitmarkLoader
+store/codec/image/MaterialRaw.java
+ store.codec.image.MaterialRaw
+store/codec/util/bzip2/BZip2Compressor.java
+ store.codec.util.bzip2.BZip2Compressor
+store/codec/NPCDefinition.java
+ store.codec.NPCDefinition
+store/Index.java
+ store.Index
+store/codec/FontMetrics.java
+ store.codec.FontMetrics
+store/Archive.java
+ store.Archive
+store/codec/osrs/ItemConverter.java
+ store.codec.osrs.ItemConverter
+store/FileReference.java
+ store.FileReference
+store/codec/osrs/FrameSet.java
+ store.codec.osrs.FrameSet
+suite/controller/MaterialEditor.java
+ suite.controller.MaterialEditor
+ suite.controller.MaterialEditor$1
+store/codec/util/crc32/CRC32HGenerator.java
+ store.codec.util.crc32.CRC32HGenerator
+store/codec/util/bzip2/BZip2BlockEntry.java
+ store.codec.util.bzip2.BZip2BlockEntry
+store/codec/osrs/SpotDefinition.java
+ store.codec.osrs.SpotDefinition
+store/codec/util/bzip2/BZip2Decompressor.java
+ store.codec.util.bzip2.BZip2Decompressor
+store/codec/TextureDefinition.java
+ store.codec.TextureDefinition
+misc/GameObject.java
+ misc.GameObject
+suite/controller/Settings.java
+ suite.controller.Settings
+ suite.controller.Settings$1
+store/codec/map/OverlayDefinition.java
+ store.codec.map.OverlayDefinition
